@@ -1,11 +1,14 @@
 # Mac OS Setup
+
 ## Check your processing type
 
 Let's check what type of apple chip our laptop contains.
 
 Run the following command:
 
-`./macos_processtype.sh`
+````
+/bin/bash -c "$(curl -fsSL https://github.com/alexisflipo/machine_setup/blob/main/macos/macos_processor.sh)"
+```
 
 ## Install Xcode Command Line Tools
 > :warning: Make sure to have at least 40 gb of free disk space

@@ -10,6 +10,6 @@ When we get a new machine often we need to configure it to be operational. Confi
 
 ## Select your OS
 
-<a href="https://github.com/alexisflipo/machine_setup/macos/Readme.md" rel="Macos setupt">![Macos](assets/img/macos.png)</a>
+<a href="https://github.com/alexisflipo/machine_setup/tree/main/macos#readme" rel="Macos setupt">![Macos](assets/img/macos.png)</a>
 
 To be continued..
